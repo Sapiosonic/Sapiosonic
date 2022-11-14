@@ -35,4 +35,13 @@ If you want to keep in touch, feel free to reach me out on my social medias.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapiosonic&langs_count=8)](https://github.com/Sapiosonic/github-readme-stats)
 
+## Some Inspiration!
+
+<div style="display: inline_block">
+  <blockquote cite="https://www.brainyquote.com/quotes/james_gosling_1050702">
+  One of the toughest things about life is making choices. I had a hard time saying 'no' to a bunch of other excellent        possibilities.
+</blockquote>
+  <legend>James Gosling</legend>
+</div>
+
 
