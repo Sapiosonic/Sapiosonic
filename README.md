@@ -28,7 +28,7 @@ If you want to keep in touch, feel free to reach out on my social media.
 ## My Stats!
 
 ![Radamés' GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapiosonic&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapiosonic&layout=compact&langs_count=10)](https://github.com/Sapiosonic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapiosonic&layout=compact&langs_count=8)](https://github.com/Sapiosonic/github-readme-stats)
 
 
 ## Some Inspiration!
