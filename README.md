@@ -1,6 +1,6 @@
 ## Hi, Welcome To My Github Repo!
 
-My name is Radamés, a student from Brazil who's currently enrolled in an Associate degree on Internet-based Systems. I've just finished 6 months of in-depth, on-campus training on Web Development with Angular on the client side and Java powered by Spring Boot in the server side.
+My name is Radamés, a student from Brazil who's currently enrolled in an Associate degree on Internet-based Systems. I've just finished 6 months of in-depth, on-campus training on Web Development with Angular on the client side and Java powered by Spring Boot on the server side.
 
 Also, I'm a student in StartSe Tech Academy, an online 3-month training covering Coding fundamentals, Javascript, Front-end building blocks, Node.js fundamentals and SQL.
 
@@ -34,8 +34,8 @@ If you want to keep in touch, feel free to reach out on my social media.
 
 ## My Stats!
 
-![Radamés' GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapiosonic&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapiosonic&layout=compact&langs_count=8)](https://github.com/Sapiosonic/github-readme-stats)
+![Radamés' GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapiosonic&ambient_gradient&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapiosonic&ambient_gradient&layout=compact&langs_count=8)](https://github.com/Sapiosonic/github-readme-stats)
 
 
 ## Some Inspiration!
