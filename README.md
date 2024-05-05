@@ -11,7 +11,7 @@ If you want to keep in touch, feel free to reach out on my social media.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapiosonic/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/15696775)
 
-## Here are the technologies I have used throughout my journey.:
+## Here are the technologies I have used throughout my journey:
 
 ### Burn Web Studio
 
@@ -29,6 +29,18 @@ If you want to keep in touch, feel free to reach out on my social media.
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![phpMyAdmin Badge](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat)
+![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=flat)
+
+### Webbrain
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![phpMyAdmin Badge](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat)
+![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=flat)
 ![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=flat)
 
 
