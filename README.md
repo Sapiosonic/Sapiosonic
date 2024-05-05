@@ -11,24 +11,26 @@ If you want to keep in touch, feel free to reach out on my social media.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapiosonic/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/15696775)
 
-### Techs That I Follow:
+## Here are the technologies I have used throughout my journey.:
 
-Burn Web Studio
+### Burn Web Studio
 
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![Less Badge](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=flat)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![PostCSS Badge](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=fff&style=flat)
 ![CakePHP Badge](https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=fff&style=flat)
+![cPanel Badge](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=fff&style=flat)
+![FileZilla Badge](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Subversion Badge](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![phpMyAdmin Badge](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat)
+![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=flat)
 
-<div style="display: inline_block; "><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
- </div>
 
 ## My Stats!
 
