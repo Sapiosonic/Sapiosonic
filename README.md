@@ -1,9 +1,10 @@
 ## Hi, Welcome To My Github Repo!
 
-I'm Radamés, a Brazilian developer 🤓
+
+👋 Hello there! I'm Radamés, a Brazilian developer.
 
 
-👋 Hello there! I've been immersed in programming since 2019, and my journey began with Python - a language that still holds a special place in my heart. 
+🤓 I've been immersed in programming since 2019, and my journey began with Python - a language that still holds a special place in my heart. 
 
 
 💻 My interests lie at the intersection of web development and data analysis, where I'm constantly exploring new ways to leverage technology to solve real-world problems.
