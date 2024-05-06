@@ -1,17 +1,49 @@
 ## Hi, Welcome To My Github Repo!
 
-My name is Radamés, a student from Brazil who's currently enrolled in an Associate degree on Internet-based Systems. I've just finished 6 months of in-depth, on-campus training on Web Development with Angular on the client side and Java powered by Spring Boot on the server side.
-
-Also, I'm a student in StartSe Tech Academy, an online 3-month training covering Coding fundamentals, Javascript, Front-end building blocks, Node.js fundamentals and SQL.
-
-In this Github profile, you can find a preview of what I've learned so far and what kind of programming languages and related technologies I'm interested in.
-
-If you want to keep in touch, feel free to reach out on my social media.
+I'm Radamés, a Brazilian developer 
+👋 Hello there! I've been immersed in programming since 2019, and my journey began with Python - a language that still holds a special place in my heart. 
+💻 My interests lie at the intersection of web development and data analysis, where I'm constantly exploring new ways to leverage technology to solve real-world problems. 
+📚 When I'm not coding, you can find me exploring the latest trends in tech, delving into a good book, or enjoying a cosy cup of tea. 
+Let's connect and build something amazing together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapiosonic/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/15696775)
 
 ## Here are the technologies I have used throughout my journey:
+
+### For personal projects and lifelong learning endeavours:
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat)
+![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
+![GeoPandas Badge](https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=flat)
+![RubyGems Badge](https://img.shields.io/badge/RubyGems-E9573F?logo=rubygems&logoColor=fff&style=flat)
+![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=flat)
+![Ruby Sinatra Badge](https://img.shields.io/badge/Ruby%20Sinatra-000?logo=rubysinatra&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![D3.js Badge](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=flat)
+![Leaflet Badge](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=flat)
+![OpenStreetMap Badge](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=fff&style=flat)
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat)
+![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)
+![PythonAnywhere Badge](https://img.shields.io/badge/PythonAnywhere-1D9FD7?logo=pythonanywhere&logoColor=fff&style=flat)
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
+
+
+### Entra 21 / SENAC (Technical College)
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 
 ### Burn Web Studio
 
