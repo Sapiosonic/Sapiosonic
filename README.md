@@ -1,9 +1,17 @@
 ## Hi, Welcome To My Github Repo!
 
-I'm Radamés, a Brazilian developer 
+I'm Radamés, a Brazilian developer 🤓
+
+
 👋 Hello there! I've been immersed in programming since 2019, and my journey began with Python - a language that still holds a special place in my heart. 
-💻 My interests lie at the intersection of web development and data analysis, where I'm constantly exploring new ways to leverage technology to solve real-world problems. 
+
+
+💻 My interests lie at the intersection of web development and data analysis, where I'm constantly exploring new ways to leverage technology to solve real-world problems.
+
+
 📚 When I'm not coding, you can find me exploring the latest trends in tech, delving into a good book, or enjoying a cosy cup of tea. 
+
+
 Let's connect and build something amazing together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapiosonic/)
