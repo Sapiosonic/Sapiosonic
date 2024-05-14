@@ -87,8 +87,8 @@ Let's connect and build something amazing together! 🚀
 
 
 ## My Stats!
-
-![Radamés' GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapiosonic&show_icons=true&theme=default)
+![Sapiosonic's Stats](https://github-readme-stats.vercel.app/api?username=Sapiosonic&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Sapiosonic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sapiosonic&theme=vue-dark&hide_border=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapiosonic&layout=compact&langs_count=10)](https://github.com/Sapiosonic/github-readme-stats)
